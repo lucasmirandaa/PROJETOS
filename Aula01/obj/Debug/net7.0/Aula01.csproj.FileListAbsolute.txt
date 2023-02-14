@@ -1,0 +1,15 @@
+/home/lm/Documentos/PROJETOS/Aula01/bin/Debug/net7.0/Aula01
+/home/lm/Documentos/PROJETOS/Aula01/bin/Debug/net7.0/Aula01.deps.json
+/home/lm/Documentos/PROJETOS/Aula01/bin/Debug/net7.0/Aula01.runtimeconfig.json
+/home/lm/Documentos/PROJETOS/Aula01/bin/Debug/net7.0/Aula01.dll
+/home/lm/Documentos/PROJETOS/Aula01/bin/Debug/net7.0/Aula01.pdb
+/home/lm/Documentos/PROJETOS/Aula01/obj/Debug/net7.0/Aula01.csproj.AssemblyReference.cache
+/home/lm/Documentos/PROJETOS/Aula01/obj/Debug/net7.0/Aula01.GeneratedMSBuildEditorConfig.editorconfig
+/home/lm/Documentos/PROJETOS/Aula01/obj/Debug/net7.0/Aula01.AssemblyInfoInputs.cache
+/home/lm/Documentos/PROJETOS/Aula01/obj/Debug/net7.0/Aula01.AssemblyInfo.cs
+/home/lm/Documentos/PROJETOS/Aula01/obj/Debug/net7.0/Aula01.csproj.CoreCompileInputs.cache
+/home/lm/Documentos/PROJETOS/Aula01/obj/Debug/net7.0/Aula01.dll
+/home/lm/Documentos/PROJETOS/Aula01/obj/Debug/net7.0/refint/Aula01.dll
+/home/lm/Documentos/PROJETOS/Aula01/obj/Debug/net7.0/Aula01.pdb
+/home/lm/Documentos/PROJETOS/Aula01/obj/Debug/net7.0/Aula01.genruntimeconfig.cache
+/home/lm/Documentos/PROJETOS/Aula01/obj/Debug/net7.0/ref/Aula01.dll

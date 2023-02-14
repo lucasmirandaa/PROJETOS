@@ -1,0 +1,15 @@
+/home/lm/Documentos/PROJETOS/CONSTRUTORES/obj/Debug/net7.0/CONSTRUTORES.csproj.AssemblyReference.cache
+/home/lm/Documentos/PROJETOS/CONSTRUTORES/obj/Debug/net7.0/CONSTRUTORES.GeneratedMSBuildEditorConfig.editorconfig
+/home/lm/Documentos/PROJETOS/CONSTRUTORES/obj/Debug/net7.0/CONSTRUTORES.AssemblyInfoInputs.cache
+/home/lm/Documentos/PROJETOS/CONSTRUTORES/obj/Debug/net7.0/CONSTRUTORES.AssemblyInfo.cs
+/home/lm/Documentos/PROJETOS/CONSTRUTORES/obj/Debug/net7.0/CONSTRUTORES.csproj.CoreCompileInputs.cache
+/home/lm/Documentos/PROJETOS/CONSTRUTORES/bin/Debug/net7.0/CONSTRUTORES
+/home/lm/Documentos/PROJETOS/CONSTRUTORES/bin/Debug/net7.0/CONSTRUTORES.deps.json
+/home/lm/Documentos/PROJETOS/CONSTRUTORES/bin/Debug/net7.0/CONSTRUTORES.runtimeconfig.json
+/home/lm/Documentos/PROJETOS/CONSTRUTORES/bin/Debug/net7.0/CONSTRUTORES.dll
+/home/lm/Documentos/PROJETOS/CONSTRUTORES/bin/Debug/net7.0/CONSTRUTORES.pdb
+/home/lm/Documentos/PROJETOS/CONSTRUTORES/obj/Debug/net7.0/CONSTRUTORES.dll
+/home/lm/Documentos/PROJETOS/CONSTRUTORES/obj/Debug/net7.0/refint/CONSTRUTORES.dll
+/home/lm/Documentos/PROJETOS/CONSTRUTORES/obj/Debug/net7.0/CONSTRUTORES.pdb
+/home/lm/Documentos/PROJETOS/CONSTRUTORES/obj/Debug/net7.0/CONSTRUTORES.genruntimeconfig.cache
+/home/lm/Documentos/PROJETOS/CONSTRUTORES/obj/Debug/net7.0/ref/CONSTRUTORES.dll

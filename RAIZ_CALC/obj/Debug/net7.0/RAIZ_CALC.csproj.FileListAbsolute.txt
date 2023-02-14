@@ -1,0 +1,15 @@
+/home/lm/Documentos/PROJETOS/RAIZ_CALC/obj/Debug/net7.0/RAIZ_CALC.csproj.AssemblyReference.cache
+/home/lm/Documentos/PROJETOS/RAIZ_CALC/obj/Debug/net7.0/RAIZ_CALC.GeneratedMSBuildEditorConfig.editorconfig
+/home/lm/Documentos/PROJETOS/RAIZ_CALC/obj/Debug/net7.0/RAIZ_CALC.AssemblyInfoInputs.cache
+/home/lm/Documentos/PROJETOS/RAIZ_CALC/obj/Debug/net7.0/RAIZ_CALC.AssemblyInfo.cs
+/home/lm/Documentos/PROJETOS/RAIZ_CALC/obj/Debug/net7.0/RAIZ_CALC.csproj.CoreCompileInputs.cache
+/home/lm/Documentos/PROJETOS/RAIZ_CALC/bin/Debug/net7.0/RAIZ_CALC
+/home/lm/Documentos/PROJETOS/RAIZ_CALC/bin/Debug/net7.0/RAIZ_CALC.deps.json
+/home/lm/Documentos/PROJETOS/RAIZ_CALC/bin/Debug/net7.0/RAIZ_CALC.runtimeconfig.json
+/home/lm/Documentos/PROJETOS/RAIZ_CALC/bin/Debug/net7.0/RAIZ_CALC.dll
+/home/lm/Documentos/PROJETOS/RAIZ_CALC/bin/Debug/net7.0/RAIZ_CALC.pdb
+/home/lm/Documentos/PROJETOS/RAIZ_CALC/obj/Debug/net7.0/RAIZ_CALC.dll
+/home/lm/Documentos/PROJETOS/RAIZ_CALC/obj/Debug/net7.0/refint/RAIZ_CALC.dll
+/home/lm/Documentos/PROJETOS/RAIZ_CALC/obj/Debug/net7.0/RAIZ_CALC.pdb
+/home/lm/Documentos/PROJETOS/RAIZ_CALC/obj/Debug/net7.0/RAIZ_CALC.genruntimeconfig.cache
+/home/lm/Documentos/PROJETOS/RAIZ_CALC/obj/Debug/net7.0/ref/RAIZ_CALC.dll

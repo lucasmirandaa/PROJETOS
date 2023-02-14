@@ -1,0 +1,15 @@
+/home/lm/Documentos/PROJETOS/CADASTRO/bin/Debug/net7.0/CADASTRO
+/home/lm/Documentos/PROJETOS/CADASTRO/bin/Debug/net7.0/CADASTRO.deps.json
+/home/lm/Documentos/PROJETOS/CADASTRO/bin/Debug/net7.0/CADASTRO.runtimeconfig.json
+/home/lm/Documentos/PROJETOS/CADASTRO/bin/Debug/net7.0/CADASTRO.dll
+/home/lm/Documentos/PROJETOS/CADASTRO/bin/Debug/net7.0/CADASTRO.pdb
+/home/lm/Documentos/PROJETOS/CADASTRO/obj/Debug/net7.0/CADASTRO.csproj.AssemblyReference.cache
+/home/lm/Documentos/PROJETOS/CADASTRO/obj/Debug/net7.0/CADASTRO.GeneratedMSBuildEditorConfig.editorconfig
+/home/lm/Documentos/PROJETOS/CADASTRO/obj/Debug/net7.0/CADASTRO.AssemblyInfoInputs.cache
+/home/lm/Documentos/PROJETOS/CADASTRO/obj/Debug/net7.0/CADASTRO.AssemblyInfo.cs
+/home/lm/Documentos/PROJETOS/CADASTRO/obj/Debug/net7.0/CADASTRO.csproj.CoreCompileInputs.cache
+/home/lm/Documentos/PROJETOS/CADASTRO/obj/Debug/net7.0/CADASTRO.dll
+/home/lm/Documentos/PROJETOS/CADASTRO/obj/Debug/net7.0/refint/CADASTRO.dll
+/home/lm/Documentos/PROJETOS/CADASTRO/obj/Debug/net7.0/CADASTRO.pdb
+/home/lm/Documentos/PROJETOS/CADASTRO/obj/Debug/net7.0/CADASTRO.genruntimeconfig.cache
+/home/lm/Documentos/PROJETOS/CADASTRO/obj/Debug/net7.0/ref/CADASTRO.dll

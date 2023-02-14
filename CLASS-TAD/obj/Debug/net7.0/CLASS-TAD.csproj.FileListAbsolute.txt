@@ -1,0 +1,15 @@
+/home/lm/Documentos/PROJETOS/CLASS-TAD/obj/Debug/net7.0/CLASS-TAD.csproj.AssemblyReference.cache
+/home/lm/Documentos/PROJETOS/CLASS-TAD/obj/Debug/net7.0/CLASS-TAD.GeneratedMSBuildEditorConfig.editorconfig
+/home/lm/Documentos/PROJETOS/CLASS-TAD/obj/Debug/net7.0/CLASS-TAD.AssemblyInfoInputs.cache
+/home/lm/Documentos/PROJETOS/CLASS-TAD/obj/Debug/net7.0/CLASS-TAD.AssemblyInfo.cs
+/home/lm/Documentos/PROJETOS/CLASS-TAD/obj/Debug/net7.0/CLASS-TAD.csproj.CoreCompileInputs.cache
+/home/lm/Documentos/PROJETOS/CLASS-TAD/bin/Debug/net7.0/CLASS-TAD
+/home/lm/Documentos/PROJETOS/CLASS-TAD/bin/Debug/net7.0/CLASS-TAD.deps.json
+/home/lm/Documentos/PROJETOS/CLASS-TAD/bin/Debug/net7.0/CLASS-TAD.runtimeconfig.json
+/home/lm/Documentos/PROJETOS/CLASS-TAD/bin/Debug/net7.0/CLASS-TAD.dll
+/home/lm/Documentos/PROJETOS/CLASS-TAD/bin/Debug/net7.0/CLASS-TAD.pdb
+/home/lm/Documentos/PROJETOS/CLASS-TAD/obj/Debug/net7.0/CLASS-TAD.dll
+/home/lm/Documentos/PROJETOS/CLASS-TAD/obj/Debug/net7.0/refint/CLASS-TAD.dll
+/home/lm/Documentos/PROJETOS/CLASS-TAD/obj/Debug/net7.0/CLASS-TAD.pdb
+/home/lm/Documentos/PROJETOS/CLASS-TAD/obj/Debug/net7.0/CLASS-TAD.genruntimeconfig.cache
+/home/lm/Documentos/PROJETOS/CLASS-TAD/obj/Debug/net7.0/ref/CLASS-TAD.dll
